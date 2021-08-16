@@ -1,6 +1,6 @@
 <p>
     <a href="https://tailwindcss.com/" target="_blank">
-      <img alt="Tailwind CSS" width="350" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
+      <img alt="Tailwind CSS" width="350" src="https://gist.githubusercontent.com/JamesGelok/2b0159432edb9ca66ad682e33b2fe0d9/raw/a5dd2d32a18ef52abd4395ba457e7f079c260587/tailwind.svg">
     </a><br>
     A utility-first CSS framework for rapidly building custom user interfaces.
 </p>
@@ -13,6 +13,8 @@
 </p>
 
 ------
+
+
 
 ## Documentation
 
